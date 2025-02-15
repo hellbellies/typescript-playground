@@ -1,0 +1,4 @@
+- open a .ts file
+- open the run and debug view (CMD + SHIFT + D)
+- make sure you select 'Run Current TS File' from the dropdown
+- click the play button (green arrow) or hit F5
