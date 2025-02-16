@@ -1,2 +1,5 @@
 - type checking
 - type guards
+- optional chaining operator (e.g. user?.name ... will return undefined if user is undefined)
+- nullish coalescing operator (e.g. user?.name ?? 'default' ... will return 'default' if user?.name is null or undefined)
+  - difference to ||: ?? only checks for null or undefined, not for falsy values
